@@ -3,7 +3,7 @@
  <img align="right" alt="GIF" src="https://github.com/mimiicteam/mimiicteam/blob/main/coder.gif?raw=true" width="500" height="320" />
 
 
-## I'm a Student, Developer, Creator, and Mentor!!
+## I'm a Student, Developer, Creator!!
 - ✍ You can find my projects here [INFO]
 - 🔭 I’m currently working on my first book.
 - 🌱 I’m currently learning Application Desktop, Unity Game Dev
